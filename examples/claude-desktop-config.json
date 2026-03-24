@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "quickbooks": {
+      "command": "quickbooks-mcp",
+      "env": {
+        "QBO_CLIENT_ID": "your_client_id_here",
+        "QBO_CLIENT_SECRET": "your_client_secret_here",
+        "QBO_REALM_ID": "your_realm_id_here",
+        "LICENSE_KEY": "",
+        "QBO_SANDBOX": "false",
+        "LOG_LEVEL": "INFO"
+      }
+    }
+  }
+}
