@@ -156,7 +156,7 @@ def require_premium(license_key: str) -> str | None:
 
     if not license_key:
         return (
-            "This is a premium feature. Upgrade at https://lewenterprises.com/quickbooks-mcp "
+            "This is a premium feature. Upgrade at https://nyxtools.dev/quickbooks-mcp "
             "to unlock financial reports, write operations, and analytics. "
             "Set the LICENSE_KEY environment variable after purchase."
         )

@@ -276,4 +276,4 @@ Use your Development keys (not Production) from the Intuit developer dashboard.
 
 MIT License. See [LICENSE](LICENSE) for details.
 
-Copyright (c) 2026 NyxTools · LEW Enterprises LLC
+Copyright (c) 2026 NyxTools
